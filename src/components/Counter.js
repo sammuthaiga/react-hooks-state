@@ -8,6 +8,9 @@ function Counter() {
   }
 
   return <button onClick={increment}>I have been clicked {count} times</button>;
+
+  
 }
+
 
 export default Counter;
